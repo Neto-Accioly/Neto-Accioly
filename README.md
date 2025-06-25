@@ -9,6 +9,19 @@ Apaixonado por tecnologia, escolhi seguir carreira na área de Qualidade de Soft
 Em breve, pretendo lançar um canal no YouTube, o [dailyDeQualidade](https://www.youtube.com/channel/UCYhLRyJuBLpqvb4hV1wiAbA), onde irei compartilhar os aprendizados e experiências adquiridas ao longo da minha jornada na tecnologia. 
 
 <p align="left">
+    <a href="https://www.youtube.com/@netoaccioly?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@netoaccioly">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
     </a> 
     <a href="https://github.com/Neto-accioly?tab=repositories&sort=stargazers">
         <img 
