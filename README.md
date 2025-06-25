@@ -6,7 +6,7 @@ Me chamo Neto Accioly, tenho 35 anos e sou natural de Pernambuco. Concluí o ens
 
 Apaixonado por tecnologia, escolhi seguir carreira na área de Qualidade de Software (QA) e, atualmente, participo da Mentoria 2.0 do Júlio de Lima, com o objetivo de me preparar de forma sólida para atuar profissionalmente na área.
 
-Em breve, pretendo lançar um canal no YouTube, o [dailyDeQualidade](https://www.youtube.com/@netoaccioly), onde irei compartilhar os aprendizados e experiências adquiridas ao longo da minha jornada na tecnologia. 
+Em breve, pretendo lançar um canal no YouTube, o [dailyDeQualidade](https://www.youtube.com/channel/UCYhLRyJuBLpqvb4hV1wiAbA), onde irei compartilhar os aprendizados e experiências adquiridas ao longo da minha jornada na tecnologia. 
 
 <p align="left">
     <a href="https://www.youtube.com/@netoaccioly?sub_confirmation=1">
