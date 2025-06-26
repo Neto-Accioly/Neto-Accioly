@@ -101,6 +101,6 @@ Em breve, pretendo lançar o [dailyDeQualidade](https://www.youtube.com/channel/
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Neto-Accioly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Accioly&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neto-Accioly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Accioly&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
