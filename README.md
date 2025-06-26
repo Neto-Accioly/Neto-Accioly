@@ -96,6 +96,8 @@ Em breve, pretendo lançar o [dailyDeQualidade](https://www.youtube.com/channel/
 <br/>
 <br/>
 
+
+---
 ### 📊 Estatísticas
 
 <p align="left">
