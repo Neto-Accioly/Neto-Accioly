@@ -3,7 +3,7 @@
 
 Me chamo Neto Accioly, tenho 35 anos, sou natural de Pernambuco e formado em Análise e Desenvolvimento de Sistemas (ADS).
 
-Apaixonado por jogos e tecnologia, decidi direcionar meus estudos para a área de Analise de Testes e Qualidade de Software (QA). Atualmente, participo da Mentoria 2.0 do Júlio de Lima, com o objetivo de me preparar de forma sólida para atuar profissionalmente no setor.
+Apaixonado por jogos e tecnologia, decidi direcionar meus estudos para a área de Análise de Testes e Qualidade de Software (QA). Atualmente, participo da Mentoria 2.0 do Júlio de Lima, com o objetivo de me preparar de forma sólida para atuar profissionalmente no setor.
 
 Em breve, pretendo lançar o [dailyDeQualidade](https://www.youtube.com/channel/UCYhLRyJuBLpqvb4hV1wiAbA), um canal no YouTube onde vou compartilhar minha trajetória, aprendizados e experiências na área de tecnologia e qualidade de software.
 
