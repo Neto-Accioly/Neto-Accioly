@@ -13,8 +13,6 @@ Venho evoluindo com consistência, passo a passo, explorando também banco de da
 
 A cada cenário de teste, linha de código ou nova descoberta, sigo comprometido em contribuir para entregas mais confiáveis, funcionais e humanas, porque no fim das contas, qualidade é feita por pessoas, para pessoas.
 
-Em breve, pretendo lançar o [dailyDeQualidade](https://www.youtube.com/channel/UCYhLRyJuBLpqvb4hV1wiAbA), um canal no YouTube onde vou compartilhar minha trajetória, aprendizados e experiências na área de tecnologia e qualidade de software.
-
 ##
 
 <p align="center">
