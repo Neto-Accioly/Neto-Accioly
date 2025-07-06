@@ -1,9 +1,17 @@
 ## ☕ Olá! Aqui quem fala é o Neto Accioly!
 **`Analista de Testes e Qualidade de Software | Quality Assurance | Quality Engineer`**  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1NWNjY2Rjd2JqM3FnaGc1anpuNno5b2JweWk1YnB4cjB0dnQyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dv6xy4bREFlQ8fOkjV/giphy.gif" width="60">
 
-Me chamo Neto Accioly, tenho 35 anos, sou natural de Pernambuco e formado em Análise e Desenvolvimento de Sistemas (ADS).
+Sou movido por propósito e aprendizado contínuo. Após anos liderando equipes comerciais, treinando pessoas e otimizando processos com foco em resultado, decidi canalizar essa bagagem para a área de Qualidade de Software, onde encontrei um novo desafio que une minha paixão por tecnologia à minha vocação por resolver problemas de forma estruturada.
 
-Apaixonado por jogos e tecnologia, decidi direcionar meus estudos para a área de Análise de Testes e Qualidade de Software (QA). Atualmente, participo da Mentoria 2.0 do Júlio de Lima, com o objetivo de me preparar de forma sólida para atuar profissionalmente no setor.
+Hoje, em transição para QA, estou construindo uma base sólida através da Mentoria 2.0 do Júlio de Lima e com o apoio da minha esposa, Bruna, que já atua na área e tem sido uma grande parceira de troca de conhecimento. Em casa, temos explorado juntos ferramentas, técnicas e cenários reais de teste, transformando estudo em prática todos os dias.
+
+No meu dia a dia, tenho estudado e aplicado testes manuais, funcionais e exploratórios, além de estudos sobre técnicas de caixa preta como: partição de equivalência, análise do valor limite, tabelas de decisão. E estou iniciando os estudos de automação com Cypress, Playwright usando Mocha, Chai e Supertest, manipulando APIs com Postman e Insomnia com guia de documentação do Swagger, e versionando meus projetos com Git e GitHub Actions.
+
+Além da parte técnica, aplico naturalmente minhas soft skills no raciocínio analítico, na escuta ativa, na visão sistêmica e na busca constante por melhoria. Acredito que qualidade começa muito antes do bug ser reportado e que qualidade não é uma função e sim um processo. Qualidade é um dever de todos do time. Tenho certificação em Scrum compartilho da mentalidade contida no shift-left, buscando antecipar riscos e colaborar em todas as etapas do desenvolvimento.
+
+Venho evoluindo com consistência, passo a passo, explorando também banco de dados (MySQL e MongoDB) e gestão de testes com Jira e Zephyr.
+
+A cada cenário de teste, linha de código ou nova descoberta, sigo comprometido em contribuir para entregas mais confiáveis, funcionais e humanas, porque no fim das contas, qualidade é feita por pessoas, para pessoas.
 
 Em breve, pretendo lançar o [dailyDeQualidade](https://www.youtube.com/channel/UCYhLRyJuBLpqvb4hV1wiAbA), um canal no YouTube onde vou compartilhar minha trajetória, aprendizados e experiências na área de tecnologia e qualidade de software.
 
